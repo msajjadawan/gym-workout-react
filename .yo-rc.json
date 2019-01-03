@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "GymWorkoutWithReact",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "gradle",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "Y2NhM2ZmNTMxNTExNWM2YWFlNGRmODgzODg1ZjE1OWIwZmE0NWMwNjMzYzlkM2VhNzBmZjM4ZDU3YzViODc2NmNmNDBlMjcwNmRkYTg5ZDI1OTQ3ZTI4ZjlkMDVmZWFkMDY4MDhjNzhlMDkyZmJiZjg1MGZlNTdjNmRhMTk2NTU=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "msajjadawan",
+  "repository-name": "gym-workout-react"
+}
